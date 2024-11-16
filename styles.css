@@ -1,0 +1,21 @@
+.options{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    background-color: rgb(187, 187, 187);
+    height: 50px;
+    font-size: larger;
+}
+
+.options:hover{
+    border-style: solid;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    max-height: 300px;
+    max-width: 300px;
+}
